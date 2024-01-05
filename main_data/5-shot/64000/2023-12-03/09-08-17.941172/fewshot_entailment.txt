@@ -1,0 +1,5 @@
+Generate one sentence that logically entails "People are running from a fire." in the form of a statement beginning with "Answer:". Answer: "People are running.".
+Generate one sentence that logically entails "A large man in overalls, driving a Segway." in the form of a statement beginning with "Answer:". Answer: "A man is driving a segway.".
+Generate one sentence that logically entails "Two men wearing sunglasses." in the form of a statement beginning with "Answer:". Answer: "Both men have on at least one pair of sunglasses.".
+Generate one sentence that logically entails "A man riding a snow machine topples over." in the form of a statement beginning with "Answer:". Answer: "The snow mobile crashed.".
+Generate one sentence that logically entails "There, unattended under banks of lights, stood half-finished aircraft shapes." in the form of a statement beginning with "Answer:". Answer: "Partly-built aircrafts were standing under the lights.".

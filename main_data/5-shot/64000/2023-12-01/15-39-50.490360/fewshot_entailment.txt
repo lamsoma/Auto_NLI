@@ -1,0 +1,5 @@
+Generate one sentence that logically entails "that's over a year ago and it's it hasn't had any problems yeah seemed to" in the form of a statement beginning with "Answer:". Answer: "It hasn't had any problems for over a year".
+Generate one sentence that logically entails "A white dog plays with a brown dog on carpet." in the form of a statement beginning with "Answer:". Answer: "white dog plays with a brown dog".
+Generate one sentence that logically entails "A bride poses on a boardwalk while her bridal party stands behind her." in the form of a statement beginning with "Answer:". Answer: "A bride poses with her bridal party.".
+Generate one sentence that logically entails "A man is giving a presentation in front of a crowd." in the form of a statement beginning with "Answer:". Answer: "The man is a human being.".
+Generate one sentence that logically entails "A girl is jumping in the air." in the form of a statement beginning with "Answer:". Answer: "The girl's feet aren't touching the ground.".

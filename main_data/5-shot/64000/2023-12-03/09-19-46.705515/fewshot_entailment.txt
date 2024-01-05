@@ -1,0 +1,5 @@
+Generate one sentence that logically entails "you mean like those little thin in the little roll the bellies" in the form of a statement beginning with "Answer:". Answer: "The rolls are little and thin.".
+Generate one sentence that logically entails "To the left are innumerable aisles of records, books, software, CDs, 12-inch vinyl, and the city's largest selection of periodicals and zines." in the form of a statement beginning with "Answer:". Answer: "CDs and books are on located in the aisles on the left.".
+Generate one sentence that logically entails "A man in shorts skateboards down the street." in the form of a statement beginning with "Answer:". Answer: "The man is outside.".
+Generate one sentence that logically entails "A climber with a backpack accends a snow covered mountain." in the form of a statement beginning with "Answer:". Answer: "A backpacker is climbing.".
+Generate one sentence that logically entails "When the findings do not converge, the case study reconciles or explains the differences as far as possible." in the form of a statement beginning with "Answer:". Answer: "Explanations are included for why findings do not agree.".

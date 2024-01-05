@@ -1,0 +1,5 @@
+Generate one sentence that logically contradicts "People are running from a fire." in the form of a statement beginning with "Answer:". Answer: "A shark is swimming near shore.".
+Generate one sentence that logically contradicts "A large man in overalls, driving a Segway." in the form of a statement beginning with "Answer:". Answer: "A large man is driving his car to work.".
+Generate one sentence that logically contradicts "Two men wearing sunglasses." in the form of a statement beginning with "Answer:". Answer: "Two goldfish are riding bikes in a giant pile of mashed potatoes.".
+Generate one sentence that logically contradicts "A man riding a snow machine topples over." in the form of a statement beginning with "Answer:". Answer: "The snow mobile remained upright.".
+Generate one sentence that logically contradicts "There, unattended under banks of lights, stood half-finished aircraft shapes." in the form of a statement beginning with "Answer:". Answer: "The half-built aircrafts were hard to see because there were no lights around.".

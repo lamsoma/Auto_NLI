@@ -1,0 +1,5 @@
+Generate one sentence that logically entails "A group of people dressed in plaid are playing music." in the form of a statement beginning with "Answer:". Answer: "A group of people are playing music.".
+Generate one sentence that logically entails "right and what happens is what happens is suppose they get Saddam Hussein which they eventually will he's got one less thing to go against him" in the form of a statement beginning with "Answer:". Answer: "Once Saddam Hussein is captured, he has one less thing to go against him.".
+Generate one sentence that logically entails "A man riding a red and white bike on sunny day." in the form of a statement beginning with "Answer:". Answer: "A man enjoys a sunny day riding a bike".
+Generate one sentence that logically entails "Children sitting in front of a Christmas tree with presents in their hands." in the form of a statement beginning with "Answer:". Answer: "The children are holding packages.".
+Generate one sentence that logically entails "'They'll be ready in a week or two.'" in the form of a statement beginning with "Answer:". Answer: "It will be ready in a few weeks.".

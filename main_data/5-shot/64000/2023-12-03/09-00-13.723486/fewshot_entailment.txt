@@ -1,0 +1,5 @@
+Generate one sentence that logically entails "well thanks thanks for calling bye-bye" in the form of a statement beginning with "Answer:". Answer: "Thanks for the call, bye.".
+Generate one sentence that logically entails "A blond woman in a red suit cleaning a metal object." in the form of a statement beginning with "Answer:". Answer: "A woman cleaning an object.".
+Generate one sentence that logically entails "The child lays on the hardwood floor." in the form of a statement beginning with "Answer:". Answer: "There is a child in side on the floor.".
+Generate one sentence that logically entails "A man and a woman are laughing with their foreheads touching." in the form of a statement beginning with "Answer:". Answer: "A man and woman are standing close together.".
+Generate one sentence that logically entails "so what do you think uh do you know any people from Puerto Rico" in the form of a statement beginning with "Answer:". Answer: "Do you know anyone from Puerto Rico?".

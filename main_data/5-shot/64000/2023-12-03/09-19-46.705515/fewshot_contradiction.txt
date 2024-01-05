@@ -1,0 +1,5 @@
+Generate one sentence that logically contradicts "you mean like those little thin in the little roll the bellies" in the form of a statement beginning with "Answer:". Answer: "The rolls are fat.".
+Generate one sentence that logically contradicts "To the left are innumerable aisles of records, books, software, CDs, 12-inch vinyl, and the city's largest selection of periodicals and zines." in the form of a statement beginning with "Answer:". Answer: "CDs and books aren't carried by the store at all.".
+Generate one sentence that logically contradicts "A man in shorts skateboards down the street." in the form of a statement beginning with "Answer:". Answer: "The man is riding a horse.".
+Generate one sentence that logically contradicts "A climber with a backpack accends a snow covered mountain." in the form of a statement beginning with "Answer:". Answer: "A boy is rolling down a hill.".
+Generate one sentence that logically contradicts "When the findings do not converge, the case study reconciles or explains the differences as far as possible." in the form of a statement beginning with "Answer:". Answer: "It is impossible to reconcile diverging findings.".

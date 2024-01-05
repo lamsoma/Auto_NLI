@@ -1,0 +1,5 @@
+Generate one sentence that logically contradicts "that's over a year ago and it's it hasn't had any problems yeah seemed to" in the form of a statement beginning with "Answer:". Answer: "It has had a lot of problems".
+Generate one sentence that logically contradicts "A white dog plays with a brown dog on carpet." in the form of a statement beginning with "Answer:". Answer: "dogs sleeping in garden".
+Generate one sentence that logically contradicts "A bride poses on a boardwalk while her bridal party stands behind her." in the form of a statement beginning with "Answer:". Answer: "The bride did not make it to the wedding.".
+Generate one sentence that logically contradicts "A man is giving a presentation in front of a crowd." in the form of a statement beginning with "Answer:". Answer: "The man is sitting on the toilet in the bathroom.".
+Generate one sentence that logically contradicts "A girl is jumping in the air." in the form of a statement beginning with "Answer:". Answer: "The girl is swimming in the lake.".

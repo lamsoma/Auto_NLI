@@ -1,0 +1,5 @@
+Generate one sentence that logically entails "Brown and tan dog runs through brown, leafy terrain" in the form of a statement beginning with "Answer:". Answer: "Dogs running through some leaves.".
+Generate one sentence that logically entails "huh i don't know but i know someone who goes to Massachusetts and buys cars that have been wrecked or uh salvaged they probably they might have been stolen and" in the form of a statement beginning with "Answer:". Answer: "I am familiar with a person who ventures to Massachusetts.".
+Generate one sentence that logically entails "A man in a red shirt looks at a fallen tree." in the form of a statement beginning with "Answer:". Answer: "A man looks at a tree.".
+Generate one sentence that logically entails "Two boys playing in the shadows of the trees." in the form of a statement beginning with "Answer:". Answer: "Two boys are playing outside".
+Generate one sentence that logically entails "Forbes periodically slaps Republicans in Congress for  Get real or get out!" in the form of a statement beginning with "Answer:". Answer: "Forbes dislikes the Republicans for Get real or get out.".

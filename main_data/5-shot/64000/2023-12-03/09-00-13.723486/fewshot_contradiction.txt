@@ -1,0 +1,5 @@
+Generate one sentence that logically contradicts "well thanks thanks for calling bye-bye" in the form of a statement beginning with "Answer:". Answer: "I'm ungrateful for this phone call.".
+Generate one sentence that logically contradicts "A blond woman in a red suit cleaning a metal object." in the form of a statement beginning with "Answer:". Answer: "A hairy man cleaning an object.".
+Generate one sentence that logically contradicts "The child lays on the hardwood floor." in the form of a statement beginning with "Answer:". Answer: "A child jumps up and down on the hardwood floor.".
+Generate one sentence that logically contradicts "A man and a woman are laughing with their foreheads touching." in the form of a statement beginning with "Answer:". Answer: "A man and woman are standing back to back.".
+Generate one sentence that logically contradicts "so what do you think uh do you know any people from Puerto Rico" in the form of a statement beginning with "Answer:". Answer: "Do you know anyone from Russia?".

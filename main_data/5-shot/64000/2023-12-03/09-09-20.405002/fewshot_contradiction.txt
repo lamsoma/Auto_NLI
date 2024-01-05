@@ -1,0 +1,5 @@
+Generate one sentence that logically contradicts "A group of people dressed in plaid are playing music." in the form of a statement beginning with "Answer:". Answer: "A group of people are swimming.".
+Generate one sentence that logically contradicts "right and what happens is what happens is suppose they get Saddam Hussein which they eventually will he's got one less thing to go against him" in the form of a statement beginning with "Answer:". Answer: "I do not think that they will be able to get Saddam Hussein.".
+Generate one sentence that logically contradicts "A man riding a red and white bike on sunny day." in the form of a statement beginning with "Answer:". Answer: "A man sits on a couch and scowls at the sun".
+Generate one sentence that logically contradicts "Children sitting in front of a Christmas tree with presents in their hands." in the form of a statement beginning with "Answer:". Answer: "The children are holding assault rifles.".
+Generate one sentence that logically contradicts "'They'll be ready in a week or two.'" in the form of a statement beginning with "Answer:". Answer: "It will be ready today.".
